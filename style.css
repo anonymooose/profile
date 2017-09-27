@@ -1,6 +1,6 @@
 body {
   background: #FBFBFC;
-  background-image: url("../images/round.png");
+  background-image: url("images/round.png");
   background-repeat: repeat|repeat-x|repeat-y|no-repeat|initial|inherit;
   background-attachment: fixed;
 }
