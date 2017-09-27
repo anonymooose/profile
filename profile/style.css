@@ -1,0 +1,94 @@
+body {
+  background: #FBFBFC;
+  background-image: url("../images/round.png");
+  background-repeat: repeat|repeat-x|repeat-y|no-repeat|initial|inherit;
+  background-attachment: fixed;
+}
+
+img {
+  width: 300px;
+}
+
+.big-icon{
+  font-size: 20px;
+ }
+
+.img-center {
+  margin: 0 auto;
+  display: block;
+}
+
+.shadowed {
+  box-shadow: 2px 1px 1px rgba(100, 100, 100, 0.05)
+}
+
+#profile {
+  width: 350px;
+  border-radius: 175px;
+}
+
+
+#name {
+  width: 500px
+}
+
+div {
+  background-color: white;
+  width: 700px ;
+  margin: 20px auto ;
+  padding: 70px ;
+  text-align: center;
+  font-family: 'Khula', sans-serif;
+  font-size: 18px;
+  color: #7E7E7F;
+
+}
+
+ ul{
+  padding: 0;
+ }
+
+ul li {
+  display: inline-block;
+  padding: 10px;
+}
+
+a {
+  color: grey;
+}
+
+a:visited {
+  color: #A41F62;
+}
+a:hover {
+  color: #E3E2E2;
+}
+
+h2 {
+  font-size: 15px;
+  font-family: 'Khula', sans-serif;
+  text-align: center;
+  color: #7E7E7F;
+
+}
+
+h3 {
+  font-size: 25px;
+  font-family: 'Quattrocento Sans', sans-serif;
+  letter-spacing: 3px;
+  color: #7E7E7F;
+}
+
+h4 {
+  text-align: left;
+  padding-left: 30px;
+  font-size: 18px;
+  color: #7E7E7F;
+}
+
+p {
+  padding-left: 50px;
+  text-align: left;
+  font-size: 13px;
+  font-family: 'Khula', sans-serif
+}
